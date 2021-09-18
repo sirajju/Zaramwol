@@ -8,21 +8,26 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sirajju"><img title="Sirajju" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
+```
+        👉Modded By Sirajju👈
+
+```
+
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
+  <a href="https://github.com/Sirajju/Zaramwol ">
     <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
@@ -54,9 +59,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Sirajju/ZaraMwol)
 
-[![Deploy](https://i.ibb.co/4M4qV0L/IMG-20210819-095708.png)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://i.ibb.co/4M4qV0L/IMG-20210819-095708.png)](https://heroku.com/deploy?template=https://github.com/Sirajju/Zaramwol)
      </div>
 <br>
 <br >
@@ -70,7 +75,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/Sirajju/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +85,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/Sirajju/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
@@ -112,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Sirajju](https://github.com/Sirajju.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[Raashii](https://github.com/Sirajju)  | [Jokerser](https://github.com/Sirajju) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
