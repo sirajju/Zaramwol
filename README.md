@@ -119,7 +119,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Sirajju](https://github.com/Sirajju.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Sirajju)  | [Jokerser](https://github.com/Sirajju) | [afnanplk](https://github.com/afnanplk)
+[Sirajju](https://github.com/Sirajju)  | [Jokerser](https://github.com/Sirajju) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
