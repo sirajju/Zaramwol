@@ -156,7 +156,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```Zaramwol🖤``` \n\n *Codded By Sirajju*"
+            "value": "i am alive  \n\n ```Zaramwol🖤``` \n\n 👉 *Codded By Sirajju* 👈"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
