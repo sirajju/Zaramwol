@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
 
 👉Chat with me on whatsapp: <a href="https://wa.me/+918157970565?text=Hi Sirajju">CLICK</a>
 
-```
+
 
   <p align="center">
   <a href="https://github.com/Sirajju/Zaramwol ">
