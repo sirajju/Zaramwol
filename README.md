@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
 ```
 👉Follow me on instagram: <a href="https://instagram.com/Sirajj_u_">CLICK</a>
 
-👉Chat with me on whatsapp: <a href="https//wa.me/+918157970565">CLICK</a>
+👉Chat with me on whatsapp: <a href="https://wa.me/+918157970565?text=Hi Sirajju">CLICK</a>
 
 ```
 
