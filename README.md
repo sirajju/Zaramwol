@@ -18,6 +18,12 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
         Reserved |
     <br> 
 </p>
+<div align="center">
+
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ 
+ <div align="left">
+  
 
 ```
   👉Modded By Sirajju👈
@@ -38,9 +44,9 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
 <a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
 <a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
-
-```
   
+```
+
 pinky - pinky Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
@@ -55,7 +61,6 @@ Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
-
 
 ## Setup
 <div align="center">
