@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
 
-        *Github link        _https://tinyurl.com/yggyjfgf_*
+        *Github link        _https://github.com/Sirajju/Zaramwol*
  
 
        *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
