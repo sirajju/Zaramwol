@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
 ```
 👉Follow me on instagram: <a href="https://instagram.com/Sirajj_u_">CLICK</a>
 
-👉Chat with me on whatsapp: <a href="https://wa.me/+918157970565?text=Hi Sirajju">CLICK</a>
+👉Chat with me on whatsapp: <a href="https://wa.me/+918157970565?text=Hi Sirajju,I am created Your bot...Siraajee Enikk onn parnj tharoo bot undaakknath😀">CLICK</a>
 
 
 
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/Sirajju">Sirajju</a> to make it p
   
 ```
 
-pinky - pinky Userbot is Open Source software open to development. 
+Zaramwol- Zaramwol whatsapp bot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -65,7 +65,7 @@ the user is responsible.
 ## Setup
 <div align="center">
 
-  ### <u> Simple Method <u>
+  ### <u> Simple Method <b>Recommended</b> <u>
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Sirajju/ZaraMwol)
 
